@@ -1,6 +1,6 @@
 ---
 name: parse_date_string
-runner_type: run-python
+runner_type: python-script
 description: Parse the (human readable) date string and return timestamp.
 enabled: true
 entry_point: parse_date_string.py

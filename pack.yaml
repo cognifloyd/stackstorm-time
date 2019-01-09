@@ -6,5 +6,8 @@ keywords:
   - date
   - time
 version: 0.2.1
+python_versions:
+  - "2"
+  - "3"
 author: StackStorm, Inc.
 email: info@stackstorm.com

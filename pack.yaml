@@ -5,7 +5,7 @@ description: st2 content pack containing different date and time related functio
 keywords:
   - date
   - time
-version: 0.2.1
+version: 0.2.2
 python_versions:
   - "2"
   - "3"

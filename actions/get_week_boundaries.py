@@ -16,4 +16,4 @@ class GetWeekBoundariesTimestampsAction(Action):
         start_timestamp = dt.floor('week').timestamp
         end_timestamp = dt.ceil('week').timestamp
 
-        return start_timestamp, end_timestamp
+        return (True, (start_timestamp, end_timestamp))
